@@ -1,3 +1,6 @@
 [submodule "scikit-learn/src"]
 	path = scikit-learn/src
 	url = https://github.com/scikit-learn/scikit-learn.git
+[submodule "tensorflow/src"]
+	path = tensorflow/src
+	url = https://github.com/tensorflow/tensorflow.git
