@@ -4,3 +4,6 @@
 [submodule "tensorflow/src"]
 	path = tensorflow/src
 	url = https://github.com/tensorflow/tensorflow.git
+[submodule "tensorflow/TensorFlow-Examples"]
+	path = tensorflow/TensorFlow-Examples
+	url = https://github.com/aymericdamien/TensorFlow-Examples.git
