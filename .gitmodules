@@ -7,3 +7,6 @@
 [submodule "tensorflow/TensorFlow-Examples"]
 	path = tensorflow/TensorFlow-Examples
 	url = https://github.com/aymericdamien/TensorFlow-Examples.git
+[submodule "scipy-lecture-notes/src"]
+	path = scipy-lecture-notes/src
+	url = https://github.com/scipy-lectures/scipy-lecture-notes.git
